@@ -1,0 +1,20 @@
+football data link save 
+
+https://www.football-data.co.uk/mmz4281/2425/E0.csv
+Yeh link browser mein paste karein → E0.csv file turant download ho jayegi. Isme 380 matches ke 1X2 odds, Over/Under 2.5 odds, Asian Handicap, corners, shots, cards sab hai.
+
+
+https://www.kaggle.com/datasets/petervboch/epl-2024-2025-detailed-match-data
+Yahan Download button click karein (Sign In ke baad). File: epl-2024-2025-match-data.json (4.13 MB). Isme har goal ka exact minute, cards, substitutions, assists hai.
+
+
+
+https://www.kaggle.com/datasets/rezagooner/comprehensive-english-premier-league-match-dataset
+Yahan Download button click karein (Sign In ke baad). File: EPL_Match_Data_2000_2026.csv (4.53 MB). Isme XGHome, XGAway columns hain (2024-25 ke liye 100% complete), saath mein form, VAR, managers, standings bhi.
+
+
+
+https://www.kaggle.com/datasets/furkanark/premier-league-2024-2025-data
+Isme bhi FBref se scraped xG hai. Agar Reza Asadi wali file mein koi dikkat aaye toh yeh backup hai.
+
+
